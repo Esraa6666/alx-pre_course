@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "School"
+:wq
+#!/bin/bash
+echo "School"
+:q
+
+:q
+
+
